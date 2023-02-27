@@ -3,39 +3,39 @@
 //untuk lainya saran jangan di ubah bre nanti eror
 
 //Global Owner//
-global.owner = ['6281395861695']  // isi jika perlu
-global.mods = ['6281395861695']   // isi jika perlu
-global.prems = ['6281395861695']  // isi jika perlu
+global.owner = ['393518398856']  // isi jika perlu
+global.mods = ['393518398856']   // isi jika perlu
+global.prems = ['393518398856']  // isi jika perlu
 
 //Nomor Owner & payment//
-global.nameowner = 'BOTCAHX' // isi nama kalian bebas
-global.numberowner = '6281395861695' // isi ini untuk mengendalikan bot
-global.dana = '6281395861695' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6281395861695' // isi dengan nomor pulsa hp kalian
-global.gopay = '6281395861695'
+global.nameowner = 'SuperFabri' // isi nama kalian bebas
+global.numberowner = '393518398856' // isi ini untuk mengendalikan bot
+global.dana = '393518398856' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '393518398856' // isi dengan nomor pulsa hp kalian
+global.gopay = '393518398856'
 
 //Nama Bot & Grouplink//
-global.namebot = 'RTXZY-MD'
+global.namebot = 'SUPERFABRIBOT'
 global.gc = 'https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0'
-global.web = 'https://github.com/BOTCAHX' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.instagram = 'https://instagram.com/prm2.0'
+global.web = 'https://github.com/fabriziodee' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.instagram = 'https://instagram.com/_Fabri115'
 
 //Tampilan wm Bot dan pesan bot//
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© R-TXZY-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
-global.wm4 = '© BOT RTXZY'
+global.wm2 = '⫹⫺ SuperFabriBot'
+global.wm3 = '© SuperFabriBot'
+global.wm4 = '© SuperFabriBot'
 global.fla = 'https://api.tiodevhost.my.id/api/photooxy/harry-potter?text='
-global.wait = '_*Tunggu sedang di proses...*_'
+global.wait = '_*Attendi...*_'
 global.eror = '_*Server Error*_'
-global.benar = 'Benar ✅\n'
-global.salah = 'Salah ❌\n'
-global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
-global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.benar = 'Corretto ✅\n'
+global.salah = 'Sbagliato ❌\n'
+global.stiker_wait = '*⫹⫺ Stiker in preparazione...*'
+global.packname = 'Made by'
+global.author = 'Bot WhatsApp\nSuperFabriBot'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
